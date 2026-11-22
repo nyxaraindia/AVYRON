@@ -2,7 +2,7 @@
 
 **A universal robotics intelligence project for adaptable, safe, and cross-platform robotic systems.**
 
-AVYRON is a research and engineering effort to define one unified intelligence approach across diverse robotic forms. Its goal is to replace fragmented architectures and tightly coupled platform logic with reusable language, capability, intelligence, runtime, learning, and safety foundations.
+AVYRON is a research and engineering effort to define one unified intelligence approach across diverse robotic forms. Its goals is to replace fragmented architectures and tightly coupled platform logic with reusable language, capability, intelligence, runtime, learning, and safety foundations.
 
 > **Project status:** Research foundations — implementation has not started. The newly published **[AVYRON Language Specification v0.1 NYXARA](./AVYRON%20Language%20Specification%20v0.1%20NYXARA.pdf)** defines the initial language direction and is the first formal specification in the project.
 
@@ -116,7 +116,7 @@ Compilation or verification alone does not guarantee physical safety. Runtime en
 
 ## License
 
-No license is currently specified in this repository. Until one is added, do not assume that the code or project materials may be reused, modified, or redistributed.
+© Nyxara India. All rights reserved.
 
 ---
 
